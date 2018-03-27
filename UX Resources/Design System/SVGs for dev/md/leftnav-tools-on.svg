@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>md/leftnav-tools-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="md/leftnav-tools-on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-background-on" fill="#212121">
+            <circle id="icon-background" cx="12.5" cy="12.5" r="12.5"></circle>
+        </g>
+        <g id="tools-on" transform="translate(6.000000, 7.000000)">
+            <g id="Page-1">
+                <polygon id="Fill-1" fill="#FFFFFF" points="0 11.6249069 12.651 11.6249069 12.651 2.68045556 0 2.68045556"></polygon>
+                <path d="M2.8085,3.53637014 L2.8085,0.904276389 C2.8085,0.404769444 3.2155,9.93055556e-05 3.7185,9.93055556e-05 L8.932,9.93055556e-05 C9.435,9.93055556e-05 9.8425,0.404769444 9.8425,0.904276389 L9.8425,3.53637014" id="Stroke-2" stroke="#FFFFFF"></path>
+            </g>
+            <polyline id="Rectangle" fill="#212121" points="3.25 4 3.25 6.5 2.5 6.5 2.5 4"></polyline>
+            <polyline id="Rectangle" fill="#212121" points="10.25 4 10.25 6.5 9.5 6.5 9.5 4"></polyline>
+        </g>
+    </g>
+</svg>

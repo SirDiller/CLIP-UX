@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>md/leftnav-transactions-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="md/leftnav-transactions-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-background-on" fill="#FC4C02">
+            <circle id="icon-background" cx="12.5" cy="12.5" r="12.5"></circle>
+        </g>
+        <g id="transactions-on" transform="translate(13.000000, 13.000000) rotate(-5.000000) translate(-13.000000, -13.000000) translate(6.000000, 5.000000)">
+            <g id="Page-1">
+                <polygon id="Fill-1" fill="#FFFFFF" points="0.28935 1.96929032 2.30685 13.9058065 11.58585 12.2350968 9.56885 0.298580645"></polygon>
+                <polygon id="Stroke-2" stroke="#FC4C02" stroke-width="0.75" points="11.5858 12.2350968 2.3063 13.9058065 0.2893 1.96929032 9.5688 0.298580645"></polygon>
+                <path d="M2.7831,7.51334194 L3.8931,7.3136" id="Stroke-4" stroke="#FC4C02"></path>
+                <path d="M4.99355,7.11540645 L8.82705,6.42534194" id="Stroke-5" stroke="#FC4C02"></path>
+                <path d="M3.2484,10.2661161 L4.3584,10.0663742" id="Stroke-6" stroke="#FC4C02"></path>
+                <path d="M5.45885,9.86818065 L9.29235,9.17811613" id="Stroke-7" stroke="#FC4C02"></path>
+                <path d="M2.31825,4.76056774 L3.42775,4.56082581" id="Stroke-8" stroke="#FC4C02"></path>
+                <path d="M4.5287,4.36263226 L8.3617,3.67256774" id="Stroke-9" stroke="#FC4C02"></path>
+                <polygon id="Fill-10" fill="#FFFFFF" points="3.3426 14.9083871 12.7421 15.5385806 13.5026 3.44722581 4.1031 2.81754839"></polygon>
+                <polygon id="Stroke-11" stroke="#FC4C02" stroke-width="0.75" points="12.74205 15.538529 3.34255 14.9083355 4.10305 2.81749677 13.50255 3.44717419"></polygon>
+                <path d="M5.26305,8.8112 L6.38705,8.88655484" id="Stroke-13" stroke="#FC4C02"></path>
+                <path d="M7.5023,8.96144516 L11.3853,9.22157419" id="Stroke-14" stroke="#FC4C02"></path>
+                <path d="M5.08775,11.5997935 L6.21175,11.6751484" id="Stroke-15" stroke="#FC4C02"></path>
+                <path d="M7.32705,11.7499871 L11.21005,12.0101161" id="Stroke-16" stroke="#FC4C02"></path>
+                <path d="M5.43885,6.02265806 L6.56285,6.0980129" id="Stroke-17" stroke="#FC4C02"></path>
+                <path d="M7.6776,6.17285161 L11.5606,6.43298065" id="Stroke-18" stroke="#FC4C02"></path>
+            </g>
+        </g>
+    </g>
+</svg>
